@@ -16,10 +16,10 @@ Customers can create accounts and log in to the application. Once logged in, the
 
 To run the JavaFX GUI Bookstore Application locally, follow these steps:
 
-1. Clone this repository to your local machine using git clone https://github.com/your-username/repo-name.git.
-2. Ensure you have Java Development Kit (JDK) installed on your system.
-3. Open the project in your preferred Integrated Development Environment (IDE).
-4. Build and run the application using the appropriate commands in your IDE or by executing the main Java class.
+1. Clone this repository to your local machine using git clone git clone https://github.com/shahmeerqureshi/JavaFX-GUI-Bookstore-Application.git
+2. Ensure you have Java Development Kit (JDK) installed on your system
+3. Open the project in your preferred Integrated Development Environment (IDE)
+4. Build and run the application using the appropriate commands in your IDE or by executing the main Java class
 
 ## Acknowledgments
 Special thanks to the instructors and colleagues who provided guidance and support throughout the development of this project. Their insights and feedback have been invaluable in creating this JavaFX GUI Bookstore Application.
